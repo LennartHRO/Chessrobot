@@ -7,7 +7,7 @@ This repository contains all resources and code for the **Chess Robot** project,
 
 ## 📄 Project Overview
 
-For an in-depth look at the project, check out our [presentation PDF here](./presentation/presentation.pdf).
+For an in-depth look at the project, check out our [presentation PDF here](./presentation/Präsentation.pdf).
 
 ## ⚙️ System Architecture
 
